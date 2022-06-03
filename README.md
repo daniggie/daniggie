@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img height="60em" src="https://art.pixilart.com/ab5ec66edc9bd12.png">
+  <img height="60em" alt="Leona" src="https://art.pixilart.com/ab5ec66edc9bd12.png">
 </div>
 
 ## 👩‍💻 Tecnologias:
