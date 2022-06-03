@@ -22,7 +22,7 @@
 
 ##
 
-## Tecnologias:
+## 👩‍💻 Tecnologias:
 
 <div align="center">
 
