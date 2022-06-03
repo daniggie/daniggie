@@ -37,7 +37,7 @@
   <img title="Firebase" alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img title="TypeScript" alt"TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img title="Yarn" alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img title="npm" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img title="Jquery" alt="Jquery" src="https://img.shields.io/badge/jquery-1e2e3b?style=for-the-badge&logo=jquery&logoColor=21ace2" />
   <br>
   <img title="Git" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img title="Bootstrap" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" />
