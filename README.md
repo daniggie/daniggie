@@ -22,6 +22,7 @@
 
 <div align="center">
   <img height="60em" alt="Leona" src="https://art.pixilart.com/ab5ec66edc9bd12.png">
+  <img height="90em" alt="Leona" src="https://github.com/daniggie/daniggie/blob/main/New%20Piskel%20(1).png">
 </div>
 
 ## 👩‍💻 Tecnologias:
