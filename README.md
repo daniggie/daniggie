@@ -44,7 +44,16 @@
   <img title="VS Code" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img title="Figma" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <br>
-  <img title="GitLab" alt="GitLab" src="https://img.shields.io/badge/GitLab-e5705a?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img title="GitLab" alt="GitLab" src="https://img.shields.io/badge/GitLab-ffc659?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img title="IoT" alt="IoT" src="https://img.shields.io/badge/iot-fff?style=for-the-badge&logo=iot&logoColor=white" />
+  <img title="Amazon Web Services" alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-f7991f?style=for-the-badge&logo=amazon&logoColor=white" />
+  <img title="Docker" alt="Docker" src="https://img.shields.io/badge/Docker-1766a5?style=for-the-badge&logo=docker&logoColor=white" />
+  <br>
+  <img title="Postman" alt="Postman" src="https://img.shields.io/badge/Postman-f26b3a?style=for-the-badge&logo=postman&logoColor=white" />
+  <img title="Cypress" alt="Cypress" src="https://img.shields.io/badge/Cypress-24262e?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img title="Arduino" alt="Arduino" src="https://img.shields.io/badge/Arduino-16828d?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img title="Json" alt="Json" src="https://img.shields.io/badge/Json-272727?style=for-the-badge&logo=json&logoColor=white" />
+  
   
 </div>
     
