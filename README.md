@@ -1,5 +1,4 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Bem-vind@ ao meu perfil de desenvolvedora! Sou Daniela Gross.
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=daniggie.daniggie&color=e5289e)
 [![Linkedin Badge](https://img.shields.io/badge/-daniggie-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/-/)
 [![Instagram Badge](https://img.shields.io/badge/-@daniggie-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/daniggie/)](https://instagram.com/daniggie)
 [![Gmail Badge](https://img.shields.io/badge/-dani.gross53-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dani.gross53@gmail.com)](mailto:dani.gross53@gmail.com)
@@ -13,12 +12,6 @@
 </div>
 
 ##
-
-<div align="center">
-    
-![Metrics](https://metrics.lecoq.io/daniggie?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-    
-</div>
 
 <div align="center">
   <img height="60em" alt="Leona" src="https://art.pixilart.com/ab5ec66edc9bd12.png">
