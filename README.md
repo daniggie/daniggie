@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniggie&theme=omni&border_radius=10&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniggie&theme=omni&border_radius=10&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=600" alt="GitHub Streak" /></a>
   <img height="60em" alt="Leona" src="https://art.pixilart.com/ab5ec66edc9bd12.png">
 </div>
 
