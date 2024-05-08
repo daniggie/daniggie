@@ -1,16 +1,25 @@
  <img width="100%" src="https://camo.githubusercontent.com/c16e34dc5730ada66c289e4185e2548978c1c43ed1143233c05a95bc0102611f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666161316366266865696768743d3132302673656374696f6e3d686561646572"> 
 
-# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Daniela Gross [![Linkedin Badge](https://img.shields.io/badge/-daniggie-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/-/) [![Instagram Badge](https://img.shields.io/badge/-@daniggie-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/daniggie/)](https://instagram.com/daniggie) [![Gmail Badge](https://img.shields.io/badge/-dani.gross53-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dani.gross53@gmail.com)](mailto:dani.gross53@gmail.com)
-
-
+<div>
+ 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniggie&theme=synthwave" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniggie&layout=compact&card_width=300&theme=synthwave" />
-</div>
-
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniggie&theme=omni&border_radius=4&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=600" alt="GitHub Streak" width='74%' /></a>
+ 
+ [![Daniela Gross StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=20061059&theme=dark)](https://stackoverflow.com/users/20061059/daniela-gross)  
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-daniggie-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/-/) [![Instagram Badge](https://img.shields.io/badge/-@daniggie-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/daniggie/)](https://instagram.com/daniggie) [![Gmail Badge](https://img.shields.io/badge/-dani.gross53-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dani.gross53@gmail.com)](mailto:dani.gross53@gmail.com)
+ 
+ </div>
+ 
+ <div align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniggie&theme=synthwave" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniggie&layout=compact&card_width=300&theme=synthwave" />
+ </div>
+ 
+ 
+ <div align="center">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniggie&theme=omni&border_radius=4&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=600" alt="GitHub Streak" width='74%' /></a>
+ </div>
+ 
 </div>
 
 ## 👩‍💻 Tecnologias:
@@ -42,17 +51,9 @@
 </div>
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center" border="1px">
+
+![Visitor Count](https://profile-counter.glitch.me/daniggie/count.svg)
+
+</div>
+
