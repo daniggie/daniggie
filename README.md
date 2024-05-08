@@ -50,8 +50,9 @@
   
 </div>
 
+<br>
 
-<div align="center" border="1px">
+<div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/daniggie/count.svg)
 
